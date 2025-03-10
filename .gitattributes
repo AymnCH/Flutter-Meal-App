@@ -2,3 +2,16 @@
 *.cpp linguist-detectable=false
 *.h linguist-detectable=false
 *.mm linguist-detectable=false
+# Prioritize Dart for language detection
+*.dart linguist-detectable=true
+
+# Exclude native code files from affecting language detection
+*.c linguist-detectable=false
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.mm linguist-detectable=false
+*.m linguist-detectable=false
+*.kt linguist-detectable=false
+*.java linguist-detectable=false
+*.swift linguist-detectable=false
+*.xcconfig linguist-detectable=false
