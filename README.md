@@ -3,10 +3,10 @@ Meal App is a Flutter application that allows users to explore different types o
 
 ## 📸 Screenshots
 
-<img src="screenshots/Screenshot_1741621077.png" width="300">
-<img src="screenshots/Screenshot_1741621091.png" width="300">
-<img src="screenshots/Screenshot_1741621103.png" width="300">
-<img src="screenshots/Screenshot_1741621107.png" width="300">
-<img src="screenshots/Screenshot_1741621111.png" width="300">
-<img src="screenshots/Screenshot_1741621118.png" width="300">
-<img src="screenshots/Screenshot_1741621121.png" width="300">
+![Image](https://github.com/user-attachments/assets/e7fc5369-5438-48bc-ab70-d5cb54ef2cfa)
+![Image](https://github.com/user-attachments/assets/35ecd777-89f2-479e-8f98-98bc47c9f3f6)
+![Image](https://github.com/user-attachments/assets/c26b986c-cd77-445e-a26b-51919dea1961)
+![Image](https://github.com/user-attachments/assets/943a7be3-bccb-450a-8aaa-94613f4b87de)
+![Image](https://github.com/user-attachments/assets/429ef836-45ab-4c79-a955-ac135254298d)
+![Image](https://github.com/user-attachments/assets/38784042-9b19-451b-bf56-69241a4f0573)
+![Image](https://github.com/user-attachments/assets/813c5f8f-a490-4c82-bfbe-0c12f33b5ed2)
